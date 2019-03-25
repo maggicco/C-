@@ -1,2 +1,2 @@
 # C-
-Exercices C# and WPF
+Examples of Exercices C# and WPF
